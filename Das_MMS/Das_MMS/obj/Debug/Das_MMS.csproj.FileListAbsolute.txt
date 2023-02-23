@@ -1,0 +1,7 @@
+\\MNSSERVER\schravem$\Dokumente\github_das_mms\Das_MMS\Das_MMS\bin\Debug\Das_MMS.exe.config
+\\MNSSERVER\schravem$\Dokumente\github_das_mms\Das_MMS\Das_MMS\bin\Debug\Das_MMS.exe
+\\MNSSERVER\schravem$\Dokumente\github_das_mms\Das_MMS\Das_MMS\bin\Debug\Das_MMS.pdb
+\\MNSSERVER\schravem$\Dokumente\github_das_mms\Das_MMS\Das_MMS\obj\Debug\Das_MMS.csproj.AssemblyReference.cache
+\\MNSSERVER\schravem$\Dokumente\github_das_mms\Das_MMS\Das_MMS\obj\Debug\Das_MMS.csproj.CoreCompileInputs.cache
+\\MNSSERVER\schravem$\Dokumente\github_das_mms\Das_MMS\Das_MMS\obj\Debug\Das_MMS.exe
+\\MNSSERVER\schravem$\Dokumente\github_das_mms\Das_MMS\Das_MMS\obj\Debug\Das_MMS.pdb
